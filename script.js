@@ -15,4 +15,4 @@ $("#toggleJokes").css({
 
 $("#toggleJokes").click(function() {
     $("#joke").toggle();
-  });
+  })
