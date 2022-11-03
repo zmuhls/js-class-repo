@@ -22,3 +22,8 @@ blockquote { font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler T
 body {
     background-color:gainsboro;
   }
+
+#map {
+height:400px;
+}
+
